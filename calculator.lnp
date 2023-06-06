@@ -1,0 +1,3 @@
+".\Objects\amaze.obj" 
+TO ".\Objects\amaze" 
+PRINT(".\Listings\amaze.m51") CODE( 0X0000-0X0FFF )
